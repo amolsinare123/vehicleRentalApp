@@ -16,7 +16,7 @@
 			Application.</h1>
 
 		<br /> <br /> <a href="index.jsp"><h3>Continue......................</h3></a> <br />
-		<h1>Version 10.5.9</h1>
+		<h1>Version 10.6.0</h1>
 	</center>
 </body>
 </html>
