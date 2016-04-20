@@ -384,5 +384,5 @@
 		</plugins>
 		<finalName>${project.artifactId}</finalName>
 	</build>
-	<version>10.6.7</version>
+	<version>10.6.8</version>
 </project>
